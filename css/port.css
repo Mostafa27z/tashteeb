@@ -1,0 +1,96 @@
+
+.carousel{
+	width: 500px;
+	margin:150px auto;
+	margin-top: 15px;
+	border-radius: 10px;
+	overflow: hidden;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	box-shadow: 0 0 15px 7px rgba(0,0,0,0.5);
+}
+.carousel img{
+	height: 400px;
+	
+}
+.ti{
+	margin-top: 100px;
+	text-align: center;
+	text-shadow: 0 5px 5px rgba(0,0,0,0.5);
+	margin-bottom: 40px;
+}
+@media (max-width: 520px){
+	.carousel{
+		width: 400px;
+		height: auto;
+	}
+}
+@media (max-width: 420px){
+	.carousel{
+		width: 300px;
+		height: auto;
+	}
+}
+@media (max-width: 320px){
+	.carousel{
+		width: 280px;
+		height: auto;
+	}
+}
+@media (max-width: 295px){
+	.carousel{
+		width: 250px;
+		height: auto;
+	}
+}
+.sec2 {
+	text-align: center;
+	margin: auto;
+	margin-bottom: 200px;
+
+}
+video{
+	border-radius: 10px;
+	overflow: hidden;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	box-shadow: 0 0 15px 7px rgba(0,0,0,0.5);
+}
+@media (max-width: 720px){
+	video{
+		width: 600px;
+		height: auto;
+	}
+}
+@media (max-width: 620px){
+	video{
+		width: 500px;
+		height: auto;
+	}
+}
+@media (max-width: 520px){
+	video{
+		width: 400px;
+		height: auto;
+	}
+
+@media (max-width: 420px){
+	video{
+		width: 300px;
+		height: auto;
+	}
+}
+@media (max-width: 320px){
+	video{
+		width: 280px;
+		height: auto;
+	}
+}
+@media (max-width: 295px){
+	video{
+		width: 250px;
+		height: auto;
+	}
+}
